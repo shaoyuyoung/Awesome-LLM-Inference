@@ -1,12 +1,12 @@
 
-![image](https://github.com/user-attachments/assets/cbc1e41a-42da-4ba7-9d09-bbed4f8258e6)
+<div align='center'>
+  <img src=https://github.com/user-attachments/assets/fcd83ff2-7ace-4fb5-8d3b-3ccbc1ecbf87 width=250px >
+</div>   
 
 <div align='center'>
   <img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg >
   <img src=https://img.shields.io/github/downloads/DefTruth/Awesome-LLM-Inference/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey >
-  <img src=https://img.shields.io/github/forks/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social >
-  <img src=https://img.shields.io/github/watchers/DefTruth/Awesome-LLM-Inference.svg?style=social >
   <img src=https://img.shields.io/badge/Release-v2.6-brightgreen.svg >
   <img src=https://img.shields.io/badge/License-GPLv3.0-turquoise.svg >
  </div>   
@@ -229,7 +229,7 @@ Awesome-LLM-Inference: A curated list of [📙Awesome LLM Inference Papers with 
 |2024.11|🔥🔥[**SageAttention-2**] SageAttention2 Technical Report: Accurate 4 Bit Attention for Plug-and-play Inference Acceleration(@thu-ml)|[[pdf]](https://arxiv.org/pdf/2411.10958)|[[SageAttention]](https://github.com/thu-ml/SageAttention) ![](https://img.shields.io/github/stars/thu-ml/SageAttention) | ⭐️⭐️ |
 |2024.11|🔥🔥[**Squeezed Attention**] SQUEEZED ATTENTION: Accelerating Long Context Length LLM Inference(@UC Berkeley) |[[pdf]](https://arxiv.org/pdf/2411.09688)|[[SqueezedAttention]](https://github.com/SqueezeAILab/SqueezedAttention) ![](https://img.shields.io/github/stars/SqueezeAILab/SqueezedAttention) | ⭐️⭐️ |
 |2024.12|🔥🔥[**TurboAttention**] TURBOATTENTION: EFFICIENT ATTENTION APPROXIMATION FOR HIGH THROUGHPUTS LLMS(@Microsoft)|[[pdf]](https://arxiv.org/pdf/2412.08585)| ⚠️ |⭐️⭐️ |  
-|2025.01|🔥🔥[**FFPA**] FFPA: Yet another Faster Flash Prefill Attention with O(1) SRAM complexity for headdim > 256, ~1.5x faster than SDPA EA(@DefTruth)|[[docs]](https://github.com/DefTruth/cuffpa-py)| [[cuffpa-py]](https://github.com/DefTruth/cuffpa-py) ![](https://img.shields.io/github/stars/DefTruth/cuffpa-py)|⭐️⭐️ |
+|2025.01|🔥🔥[**FFPA**] FFPA: Yet another Faster Flash Prefill Attention with O(1) SRAM complexity for headdim > 256, ~1.5x faster than SDPA EA(@DefTruth)|[[docs]](https://github.com/DefTruth/ffpa-attn-mma)| [[ffpa-attn-mma]](https://github.com/DefTruth/ffpa-attn-mma) ![](https://img.shields.io/github/stars/DefTruth/ffpa-attn-mma)|⭐️⭐️ |
 
 
 
